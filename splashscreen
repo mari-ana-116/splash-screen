@@ -1,0 +1,27 @@
+<html>
+    <header>
+        <link href="estilo3.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <title>Tinder ITB</title>
+    </header>
+    <body>
+        <div id="tinderitb">
+            <p>Tinder ITB</p>
+        </div>
+        <div id="login">
+            <a href="index.html">Login</a>
+        </div>
+            <a href="cadastro.html">Cadastre-se</a>
+        </div>
+        <h1>ENCONTRE SEU PAR IDEAL</h1>
+        <div id="logo">
+            <img src="vector.svg">
+        </div>
+        <div id="tinder">
+            <h1>Tinder</h1>
+        </div>
+        <div id="itb">
+            <h1>ITB</h1>
+        </div>
+    </body>
+</html>
