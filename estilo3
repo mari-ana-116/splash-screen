@@ -1,0 +1,94 @@
+body{
+    background-image: linear-gradient(135deg, #FE0D5C, #FFA16C);
+} 
+
+#tinderitb{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: left;
+    float: left;
+    color: #ffffff;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 20px;
+}
+
+#login{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    float: right;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-right: 100px;
+
+}
+
+#login a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#login a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#cadastro{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+#cadastro a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#cadastro a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 72px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#logo{
+   text-align: center;
+   margin-top: 15px;
+}
+
+#logo img {
+    max-width:256px;
+    max-height:518px;
+    
+}
+
+#tinder h1{
+    font-family: 'Candal', sans-serif;
+    font-size: 144px;
+    color: #000000;
+    font-weight: bold;
+    float: left;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+
+#itb h1{
+    font-family: 'Candal', sans-serif;
+    font-size: 144px;
+    color: #0371D7;
+    font-weight: bold;
+    float: right;
+    margin-right: 290px;
+    margin-top: 10px;
+}
